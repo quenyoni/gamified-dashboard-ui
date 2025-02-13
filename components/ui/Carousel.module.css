@@ -1,0 +1,11 @@
+.carousel__wrapper{
+    @apply rounded-xl p-4 my-8 border border-red-500;
+    
+}
+
+.carousel{
+    display: flex;
+    gap:1rem;
+    overflow-x: auto;
+}
+

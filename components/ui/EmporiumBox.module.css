@@ -1,0 +1,13 @@
+.emporium__box{
+    
+    @apply rounded-xl p-4 my-8;
+    background: url('/emporium-box.svg') center/cover no-repeat;
+    min-height: 285px;
+  
+  
+}
+
+.emporium__box h1{
+    font-size:3rem ;
+    font-weight: 800;
+}
