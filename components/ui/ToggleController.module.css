@@ -1,0 +1,11 @@
+.toggler__controller{
+   position: absolute;
+   top:50%;
+   width: 110%;
+   left:0;
+   transform: translate(-5%,-50%);
+   display: flex;
+   justify-content: space-between;
+z-index:50;
+    
+}
